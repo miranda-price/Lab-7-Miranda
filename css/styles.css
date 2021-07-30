@@ -8,11 +8,12 @@ BASE
 }
 
 body {
-    background-color: rgb(47, 42, 54);
+    background-color: rgb(253, 249, 255); 
+
 
 }
 
-p, ul {
+p, ul, span {
     font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;   
     color: white;
     line-height: 1.7em;
@@ -30,6 +31,12 @@ li {
 a {
     color: inherit;
     text-decoration: none;
+}
+
+section {
+    background-color: rgb(9, 4, 17);
+    padding: 10px;
+    margin: 20px auto;
 }
 /*************************
 LAYOUT
