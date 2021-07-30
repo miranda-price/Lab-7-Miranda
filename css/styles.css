@@ -60,9 +60,25 @@ h3 a {
 section {
     background-color: rgba(9, 4, 17, 0.61);
     padding: 4% 7%;
-    margin: 20px;
+    margin: 4%;
 }
 
+
+nav li {
+    padding: 0 10px;
+    margin: 2px;
+    list-style-type: none;
+}
+
+img {
+
+    max-width: 350px;
+    float: right;
+}
+
+/*************************
+LAYOUT
+*************************/
 header {
     background-color: rgb(9, 4, 17);
     margin: 0;
@@ -82,21 +98,6 @@ nav ul {
     margin: 0;
 }
 
-nav li {
-    padding: 0 10px;
-    margin: 2px;
-    list-style-type: none;
-}
-
-img {
-
-    max-width: 350px;
-    float: right;
-}
-
-/*************************
-LAYOUT
-*************************/
 .container {
     max-width: 1000px;
     margin: 2% auto;
@@ -127,7 +128,7 @@ MODULES
     background-size: cover;
     background-position: center;
     width: 450px;
-    margin: 10px 2%;
+    margin: 20px 2%;
 
 }
 
@@ -146,7 +147,7 @@ MODULES
 
 .grid p {
     grid-column: 2 / 3;
-
+    margin-left: 10px;
 }
 
 
