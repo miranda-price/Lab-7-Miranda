@@ -1,11 +1,27 @@
 /*************************
 BASE
 *************************/
-body {
-    background-color: rgb(72, 63, 85);
+@font-face {
+    font-family: headingFont;
+    src: url(Prata-Regular.ttf);
+
 }
 
+body {
+    background-color: rgb(47, 42, 54);
 
+}
+
+p, ul {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;   
+    color: white;
+    line-height: 1.7em;
+}
+
+h1, h2, h3, h4 {
+    font-family: headingFont;
+    color: white;
+}
 /*************************
 LAYOUT
 *************************/
