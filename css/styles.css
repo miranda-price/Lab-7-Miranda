@@ -9,7 +9,7 @@ BASE
 
 body {
     background-color: rgb(253, 249, 255); 
-
+    margin: 0;
 
 }
 
@@ -37,6 +37,11 @@ section {
     background-color: rgb(9, 4, 17);
     padding: 10px;
     margin: 20px auto;
+}
+
+header {
+    background-color: rgb(9, 4, 17);
+    margin: 0;
 }
 /*************************
 LAYOUT
