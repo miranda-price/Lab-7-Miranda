@@ -28,6 +28,16 @@ h1 {
     margin: 5px;
 }
 
+h2 {
+    color:rgb(9, 4, 17);
+    margin: 20px 12%;
+    font-size: 3em;
+}
+
+h3 {
+    text-align: center;
+}
+
 li {
     list-style: none;
 }
@@ -38,9 +48,9 @@ a {
 }
 
 section {
-    background-color: rgb(9, 4, 17);
-    padding: 10px;
-    margin: 20px auto;
+    background-color: rgba(9, 4, 17, 0.61);
+    padding: 20px;
+    margin: 0 auto;
 }
 
 header {
@@ -70,19 +80,39 @@ nav li {
 LAYOUT
 *************************/
 .container {
-    max-width: 825px;
+    max-width: 1000px;
     margin: 2% auto;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
 }
 
 
 /*************************
 MODULES
 *************************/
+.card {
+    background-size: cover;
+    background-position: center;
+    width: 450px;
+    margin: 10px 2%;
 
+}
 
+.card:first-of-type {
+    background-image: url(../images/rw.jpg)
 
+}
+
+.card:nth-of-type(2) {
+    background-image: url(../images/navy_pier.jpg);
+}
+
+.card:nth-of-type(3) {
+    background-image: url(../images/salt-river.jpg);
+}
 /*************************
 STATES
 *************************/
