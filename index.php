@@ -25,7 +25,5 @@
 					<p>Despite what you may have heard, Pheonix isn't that awesome of a city. There's barely any water! Who wants to live in a city where there's always a drought? It's hot. Like, all the time. So, if you love sweating through your clothes, come on down! Last but NOT least, in Phoenix the cacti aren't just a pretty picture anymore. We have jumping cacti that live up to their name and really attack you.</p>
 				</section>
 			</div>
-		</div><!-- container -->
 
-	</body>
-</html>
+		<?php include "inc/footer.php"; ?>

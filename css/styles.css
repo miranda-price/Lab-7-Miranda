@@ -70,6 +70,11 @@ nav li {
     list-style-type: none;
 }
 
+nav a.is-current {
+    padding: 5px;
+    border: 2px solid white;
+}
+
 img {
 
     max-width: 350px;
@@ -169,4 +174,9 @@ a:hover {
     color:rgb(177, 167, 190);
     font-size: 1.4em;
     border-bottom: 2px solid rgb(177, 167, 190);
+}
+
+nav a.is-current:hover {
+    color: white;
+    opacity: .6;
 }

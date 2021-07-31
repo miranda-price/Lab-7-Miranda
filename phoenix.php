@@ -32,7 +32,5 @@
 				<p>Somehow though, in the deserts of Phoenix people somehow think it's a fantastic idea to have a lot of sprawling golf courses, country clubs, green lawns, and So. Many. Pools. Billionaires want to build picturesque suburbs just outside Phoenix with pretty green lawns and parks and lakes. Where they think all that water would be coming from continues to confuse me.</p>
 
 			</section>
-		</div><!-- container -->
-
-	</body>
-</html>
+		
+		<?php include "inc/footer.php"; ?>

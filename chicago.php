@@ -96,6 +96,5 @@
 					<img src="images/wrigley_field.jpg" alt="wrigley field">
 				</div>
 			</section>
-		</div><!-- container -->
-	</body>
-</html>
+		
+		<?php include "inc/footer.php"; ?>

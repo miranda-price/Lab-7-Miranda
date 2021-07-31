@@ -25,7 +25,5 @@
 					<li>Ridgewood Wild Duck Pond, part of Bergen's Saddle River County Park, is located on East Ridgewood Avenue between Paramus Road and Pershing Avenue. Amenities include circular path with bench seating around duck pond, picnic pavilion, additional picnic areas, children's playground, fenced-in dog park, restroom facilities and entrance to a 6-mile, multi-use bike & pedestrian pathway. This pathway connects Ridgewood Duck Pond with five other areas along the Saddle River County Park: Glen Rock, Fair Lawn, Paramus, Rochelle Park and Saddle Brook. Fishing (NJ state license required) and ice skating are allowed at pond when conditions permit. The water is treated with certain chemicals, however, and swimming is strictly prohibited.</li>
 				</ul>
 			</section>
-		</div><!-- container -->
-
-	</body>
-</html>
+		
+		<?php include "inc/footer.php"; ?>
