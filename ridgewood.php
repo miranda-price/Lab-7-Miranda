@@ -1,26 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Ridgewood</title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	
-	<body>
+<?php include "inc/header.php"; ?>
 
-		<header>
-			<h1> Come visit our cities</h1>
-			<nav>
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="ridgewood.html">Ridgewood</a></li>
-					<li><a href="chicago.html">Chicago</a></li>
-					<li><a href="phoenix.html">Phoenix</a></li>
-				</ul>
-			</nav>
-		</header>
-
-		<div class="container">
 			<h2>Ridgewood, NJ</h2>
 
 			<section>

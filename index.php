@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Lab 07</title>
-		<link rel="stylesheet" href="css/styles.css">
-	</head>
-	<body>
-		<header>
-			<h1>Come visit our cities</h1>
-			<nav>
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="ridgewood.html">Ridgewood</a></li>
-					<li><a href="chicago.html">Chicago</a></li>
-					<li><a href="phoenix.html">Phoenix</a></li>
-				</ul>
-			</nav>
-		</header>
+<?php include "inc/header.php"; ?>
 
-		<div class="container">
 			<h2>Our Cities:</h2>
 
 			<div class="card">
